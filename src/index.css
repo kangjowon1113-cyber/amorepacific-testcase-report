@@ -1,19 +1,19 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg: #0f1117;
-  --surface: #1a1d27;
-  --surface2: #22263a;
-  --border: #2e3248;
+  --bg: #f4f6fb;
+  --surface: #ffffff;
+  --surface2: #f1f3f8;
+  --border: #dde1ee;
   --accent: #6c7aff;
-  --accent2: #a78bfa;
-  --accent3: #34d399;
-  --accent4: #f472b6;
-  --accent5: #fb923c;
-  --text: #e2e8f0;
-  --text-muted: #8892a4;
-  --text-dim: #5a6480;
-  --tag-bg: #1e2235;
+  --accent2: #7c5cf6;
+  --accent3: #059669;
+  --accent4: #db2777;
+  --accent5: #ea580c;
+  --text: #1e2433;
+  --text-muted: #64748b;
+  --text-dim: #94a3b8;
+  --tag-bg: #eef0ff;
   font-family: 'Inter', 'Pretendard', system-ui, -apple-system, sans-serif;
 }
 
